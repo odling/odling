@@ -2,7 +2,7 @@
 
 I am a mechanical engineer and have 6 years of experience in aerospace. Now I am focused on building mobile and web applications as a frontend developer.
 
-**Tecnologies I've Used**
+**Technologies I've Used**
 
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
